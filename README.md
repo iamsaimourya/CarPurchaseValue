@@ -1,0 +1,2 @@
+Given a customer with his details like gender,credit card debt, net worth, annual salary, this model predicts how much amount he/she can spare for buying a new car.
+This is a regression task since we are predicting a continous variable of amount that can be spent for buying a car. The model is built on Keras using tensorflow background and through the same we achieved a loss of 0.03 which tells us that the model performs outstandingly efficient.
